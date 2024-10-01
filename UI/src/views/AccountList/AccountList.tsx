@@ -54,7 +54,7 @@ export const AccountList = () => {
                     </button>
 
                     <button className="rounded-full size-16 p-2 bg-[#0C0E41] text-white">
-                        <span className="text-2xl">IG</span>
+                        <span className="text-2xl">PI</span>
                     </button>
                 </div>
             </div>
